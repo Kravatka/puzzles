@@ -1,3 +1,5 @@
+<?php
+
 function findMissing($list) {
     $diff_old = $list[1] - $list[0];
 
